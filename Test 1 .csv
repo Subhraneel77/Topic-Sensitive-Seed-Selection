@@ -1,0 +1,21 @@
+INDEX,PRODUCTS,FROM NODE ,TO NODE ,TOPIC CATEGORY,TOPIC'S SUB-CATEGORY
+1,Garlic Oil - Vegetarian Capsule 500 mg,0,1,Beauty & Hygiene,Hair Care
+2,Water Bottle - Orange,0,2,"Kitchen, Garden & Pets",Storage & Accessories
+3,"Brass Angle Deep - Plain, No.2",0,3,Cleaning & Household,Pooja Needs
+4,Cereal Flip Lid Container/Storage Jar - Assorted Colour,0,4,Cleaning & Household,Bins & Bathroom Ware
+5,Creme Soft Soap - For Hands & Body,0,5,Beauty & Hygiene,Bath & Hand Wash
+6,Germ - Removal Multipurpose Wipes,1,0,Cleaning & Household,All Purpose Cleaners
+7,Multani Mati,1,2,Beauty & Hygiene,Skin Care
+8,Hand Sanitizer - 70% Alcohol Base,1,4,Beauty & Hygiene,Bath & Hand Wash
+9,Biotin & Collagen Volumizing Hair Shampoo + Biotin & Collagen Hair Conditioner,1,5,Beauty & Hygiene,Hair Care
+10,"Scrub Pad - Anti- Bacterial, Regular",1,15,Cleaning & Household,"Mops, Brushes & Scrubs"
+11,Wheat Grass Powder - Raw,2,0,Gourmet & World Food,Cooking & Baking Needs
+12,Butter Cookies Gold Collection,2,11,Gourmet & World Food,Chocolates & Biscuits
+13,"Face Wash - Oil Control, Active",2,12,Beauty & Hygiene,Skin Care
+14,Mold & Mildew Remover with Bleach,2,13,Cleaning & Household,All Purpose Cleaners
+15,Just Spray - Mosquito Repellent Room Spray,2,14,Cleaning & Household,Fresheners & Repellents
+16,Dove Plastic Soap Case - Assorted Colour,3,63,Cleaning & Household,Bins & Bathroom Ware
+17,Smooth Skin Oil - For Dry Skin,3,64,Beauty & Hygiene,Skin Care
+18,Salted Pumpkin,3,65,Gourmet & World Food,"Snacks, Dry Fruits, Nuts"
+19,Flax Seeds - Roasted,3,66,Gourmet & World Food,"Snacks, Dry Fruits, Nuts"
+20,Organic Tofu - Soy Paneer,3,67,Gourmet & World Food,Dairy & Cheese
